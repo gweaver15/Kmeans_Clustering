@@ -2,7 +2,7 @@
 
 This project implements a K-Means clustering-based image compression tool with an interactive graphical user interface (GUI). Users can view and compress images by selecting the number of clusters for compression, switch between different images, and explore the effects of compression interactively.
 
-Learn more about the K-means algorithm [here](https://www.geeksforgeeks.org/k-means-clustering-introduction/)
+Learn more about the K-means algorithm [here](https://www.geeksforgeeks.org/k-means-clustering-introduction/).
 
 ## Features
 - **Image Compression**: Uses K-Means clustering to compress images by reducing the number of colors.
