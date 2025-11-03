@@ -4,6 +4,8 @@ This project implements a K-Means clustering-based image compression tool with a
 
 Learn more about the K-means algorithm [here](https://www.geeksforgeeks.org/k-means-clustering-introduction/).
 
+Originally done as class work for CPS 352: Concepts and Implementations of programming languages
+
 ## Features
 - **Image Compression**: Uses K-Means clustering to compress images by reducing the number of colors.
 - **Interactive GUI**: Built with `matplotlib`, allowing users to:
